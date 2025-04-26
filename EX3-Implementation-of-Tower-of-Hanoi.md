@@ -16,9 +16,9 @@ To write a C program to implement Tower of Hanoi
 ```
 Program to implement Tower of Hanoi
 
-Developed by: N.NAVYA SREE
+Developed by: Shanmuga Vasanth M
 
-RegisterNumber:  212223040138
+RegisterNumber:  212223040191
 
 ```
 ```
